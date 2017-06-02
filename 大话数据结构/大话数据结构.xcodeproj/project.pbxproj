@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04071B4B1ED9186A00326DF3 /* 栈与队列.md in Sources */ = {isa = PBXBuildFile; fileRef = 04071B4A1ED9186A00326DF3 /* 栈与队列.md */; };
+		04071B4B1ED9186A00326DF3 /* 栈.md in Sources */ = {isa = PBXBuildFile; fileRef = 04071B4A1ED9186A00326DF3 /* 栈.md */; };
 		040B54161ED68BA1007006C9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 040B54111ED68BA1007006C9 /* main.c */; };
 		040B54181ED68BA1007006C9 /* 数据结构.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54131ED68BA1007006C9 /* 数据结构.md */; };
 		040B54191ED68BA1007006C9 /* 算法.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54141ED68BA1007006C9 /* 算法.md */; };
 		040B541A1ED68BA1007006C9 /* 线性表.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54151ED68BA1007006C9 /* 线性表.md */; };
+		0410AD671EDFA310002EFA23 /* 串.md in Sources */ = {isa = PBXBuildFile; fileRef = 0410AD661EDFA310002EFA23 /* 串.md */; };
+		0437DB671EDEB3AA00C6DC6F /* 队列.md in Sources */ = {isa = PBXBuildFile; fileRef = 0437DB661EDEB3AA00C6DC6F /* 队列.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,11 +29,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		04071B4A1ED9186A00326DF3 /* 栈与队列.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "栈与队列.md"; sourceTree = "<group>"; };
+		04071B4A1ED9186A00326DF3 /* 栈.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "栈.md"; sourceTree = "<group>"; };
 		040B54111ED68BA1007006C9 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		040B54131ED68BA1007006C9 /* 数据结构.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "数据结构.md"; sourceTree = "<group>"; };
 		040B54141ED68BA1007006C9 /* 算法.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "算法.md"; sourceTree = "<group>"; };
 		040B54151ED68BA1007006C9 /* 线性表.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "线性表.md"; sourceTree = "<group>"; };
+		0410AD661EDFA310002EFA23 /* 串.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "串.md"; sourceTree = "<group>"; };
+		0437DB661EDEB3AA00C6DC6F /* 队列.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "队列.md"; sourceTree = "<group>"; };
 		0458D5D41ED4383C000A093F /* 大话数据结构 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "大话数据结构"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -53,7 +57,9 @@
 				040B54131ED68BA1007006C9 /* 数据结构.md */,
 				040B54141ED68BA1007006C9 /* 算法.md */,
 				040B54151ED68BA1007006C9 /* 线性表.md */,
-				04071B4A1ED9186A00326DF3 /* 栈与队列.md */,
+				04071B4A1ED9186A00326DF3 /* 栈.md */,
+				0437DB661EDEB3AA00C6DC6F /* 队列.md */,
+				0410AD661EDFA310002EFA23 /* 串.md */,
 			);
 			path = "大话数据结构";
 			sourceTree = "<group>";
@@ -133,10 +139,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				040B541A1ED68BA1007006C9 /* 线性表.md in Sources */,
-				04071B4B1ED9186A00326DF3 /* 栈与队列.md in Sources */,
+				04071B4B1ED9186A00326DF3 /* 栈.md in Sources */,
 				040B54191ED68BA1007006C9 /* 算法.md in Sources */,
+				0437DB671EDEB3AA00C6DC6F /* 队列.md in Sources */,
 				040B54181ED68BA1007006C9 /* 数据结构.md in Sources */,
 				040B54161ED68BA1007006C9 /* main.c in Sources */,
+				0410AD671EDFA310002EFA23 /* 串.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
