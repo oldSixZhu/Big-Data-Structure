@@ -14,6 +14,7 @@
 		040B541A1ED68BA1007006C9 /* 线性表.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54151ED68BA1007006C9 /* 线性表.md */; };
 		0410AD671EDFA310002EFA23 /* 串.md in Sources */ = {isa = PBXBuildFile; fileRef = 0410AD661EDFA310002EFA23 /* 串.md */; };
 		0437DB671EDEB3AA00C6DC6F /* 队列.md in Sources */ = {isa = PBXBuildFile; fileRef = 0437DB661EDEB3AA00C6DC6F /* 队列.md */; };
+		04732F9A1EE6A6A400BAADB1 /* 二叉树.md in Sources */ = {isa = PBXBuildFile; fileRef = 04732F991EE6A6A400BAADB1 /* 二叉树.md */; };
 		04B4DA3C1EE156B10000C136 /* 树.md in Sources */ = {isa = PBXBuildFile; fileRef = 04B4DA3B1EE156B10000C136 /* 树.md */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		0410AD661EDFA310002EFA23 /* 串.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "串.md"; sourceTree = "<group>"; };
 		0437DB661EDEB3AA00C6DC6F /* 队列.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "队列.md"; sourceTree = "<group>"; };
 		0458D5D41ED4383C000A093F /* 大话数据结构 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "大话数据结构"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04732F991EE6A6A400BAADB1 /* 二叉树.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "二叉树.md"; sourceTree = "<group>"; };
 		04B4DA3B1EE156B10000C136 /* 树.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "树.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 				0437DB661EDEB3AA00C6DC6F /* 队列.md */,
 				0410AD661EDFA310002EFA23 /* 串.md */,
 				04B4DA3B1EE156B10000C136 /* 树.md */,
+				04732F991EE6A6A400BAADB1 /* 二叉树.md */,
 			);
 			path = "大话数据结构";
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				0437DB671EDEB3AA00C6DC6F /* 队列.md in Sources */,
 				040B54181ED68BA1007006C9 /* 数据结构.md in Sources */,
 				04B4DA3C1EE156B10000C136 /* 树.md in Sources */,
+				04732F9A1EE6A6A400BAADB1 /* 二叉树.md in Sources */,
 				040B54161ED68BA1007006C9 /* main.c in Sources */,
 				0410AD671EDFA310002EFA23 /* 串.md in Sources */,
 			);
