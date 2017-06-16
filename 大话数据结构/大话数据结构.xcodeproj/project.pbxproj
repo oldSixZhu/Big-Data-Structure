@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		04071B4B1ED9186A00326DF3 /* 栈.md in Sources */ = {isa = PBXBuildFile; fileRef = 04071B4A1ED9186A00326DF3 /* 栈.md */; };
+		04087D891EEE266F006534CF /* 最小最短算法.md in Sources */ = {isa = PBXBuildFile; fileRef = 04087D881EEE266F006534CF /* 最小最短算法.md */; };
 		04089A0D1EE9302300F36FCA /* 01线性表顺序存储_List_UTF-8.c in Sources */ = {isa = PBXBuildFile; fileRef = 040899E91EE9302300F36FCA /* 01线性表顺序存储_List_UTF-8.c */; };
 		04089A0E1EE9302300F36FCA /* 02线性表链式存储_LinkList_UTF-8.c in Sources */ = {isa = PBXBuildFile; fileRef = 040899EA1EE9302300F36FCA /* 02线性表链式存储_LinkList_UTF-8.c */; };
 		04089A0F1EE9302300F36FCA /* 03静态链表_StaticLinkList_UTF-8.c in Sources */ = {isa = PBXBuildFile; fileRef = 040899EB1EE9302300F36FCA /* 03静态链表_StaticLinkList_UTF-8.c */; };
@@ -39,6 +40,7 @@
 		04089A291EE9302300F36FCA /* 05散列表_HashTable_UTF-8.c in Sources */ = {isa = PBXBuildFile; fileRef = 04089A0A1EE9302300F36FCA /* 05散列表_HashTable_UTF-8.c */; };
 		04089A2A1EE9302300F36FCA /* 01排序_Sort_UTF-8.c in Sources */ = {isa = PBXBuildFile; fileRef = 04089A0C1EE9302300F36FCA /* 01排序_Sort_UTF-8.c */; };
 		04089A2C1EE9540200F36FCA /* 图.md in Sources */ = {isa = PBXBuildFile; fileRef = 04089A2B1EE9540200F36FCA /* 图.md */; };
+		040902591EF2789300C0D799 /* 排序.c in Sources */ = {isa = PBXBuildFile; fileRef = 040902581EF2789300C0D799 /* 排序.c */; };
 		040B54161ED68BA1007006C9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 040B54111ED68BA1007006C9 /* main.c */; };
 		040B54181ED68BA1007006C9 /* 数据结构.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54131ED68BA1007006C9 /* 数据结构.md */; };
 		040B54191ED68BA1007006C9 /* 算法.md in Sources */ = {isa = PBXBuildFile; fileRef = 040B54141ED68BA1007006C9 /* 算法.md */; };
@@ -47,6 +49,7 @@
 		0437DB671EDEB3AA00C6DC6F /* 队列.md in Sources */ = {isa = PBXBuildFile; fileRef = 0437DB661EDEB3AA00C6DC6F /* 队列.md */; };
 		04732F9A1EE6A6A400BAADB1 /* 二叉树.md in Sources */ = {isa = PBXBuildFile; fileRef = 04732F991EE6A6A400BAADB1 /* 二叉树.md */; };
 		04B4DA3C1EE156B10000C136 /* 树.md in Sources */ = {isa = PBXBuildFile; fileRef = 04B4DA3B1EE156B10000C136 /* 树.md */; };
+		04FDDFAF1EEFDC86002DCAED /* 查找.md in Sources */ = {isa = PBXBuildFile; fileRef = 04FDDFAE1EEFDC86002DCAED /* 查找.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +66,7 @@
 
 /* Begin PBXFileReference section */
 		04071B4A1ED9186A00326DF3 /* 栈.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "栈.md"; sourceTree = "<group>"; };
+		04087D881EEE266F006534CF /* 最小最短算法.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "最小最短算法.md"; sourceTree = "<group>"; };
 		040899E91EE9302300F36FCA /* 01线性表顺序存储_List_UTF-8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "01线性表顺序存储_List_UTF-8.c"; sourceTree = "<group>"; };
 		040899EA1EE9302300F36FCA /* 02线性表链式存储_LinkList_UTF-8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "02线性表链式存储_LinkList_UTF-8.c"; sourceTree = "<group>"; };
 		040899EB1EE9302300F36FCA /* 03静态链表_StaticLinkList_UTF-8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "03静态链表_StaticLinkList_UTF-8.c"; sourceTree = "<group>"; };
@@ -94,6 +98,7 @@
 		04089A0A1EE9302300F36FCA /* 05散列表_HashTable_UTF-8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "05散列表_HashTable_UTF-8.c"; sourceTree = "<group>"; };
 		04089A0C1EE9302300F36FCA /* 01排序_Sort_UTF-8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "01排序_Sort_UTF-8.c"; sourceTree = "<group>"; };
 		04089A2B1EE9540200F36FCA /* 图.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "图.md"; sourceTree = "<group>"; };
+		040902581EF2789300C0D799 /* 排序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "排序.c"; sourceTree = "<group>"; };
 		040B54111ED68BA1007006C9 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		040B54131ED68BA1007006C9 /* 数据结构.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "数据结构.md"; sourceTree = "<group>"; };
 		040B54141ED68BA1007006C9 /* 算法.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "算法.md"; sourceTree = "<group>"; };
@@ -103,6 +108,7 @@
 		0458D5D41ED4383C000A093F /* 大话数据结构 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "大话数据结构"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04732F991EE6A6A400BAADB1 /* 二叉树.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "二叉树.md"; sourceTree = "<group>"; };
 		04B4DA3B1EE156B10000C136 /* 树.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "树.md"; sourceTree = "<group>"; };
+		04FDDFAE1EEFDC86002DCAED /* 查找.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "查找.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,6 +229,9 @@
 				04B4DA3B1EE156B10000C136 /* 树.md */,
 				04732F991EE6A6A400BAADB1 /* 二叉树.md */,
 				04089A2B1EE9540200F36FCA /* 图.md */,
+				04087D881EEE266F006534CF /* 最小最短算法.md */,
+				04FDDFAE1EEFDC86002DCAED /* 查找.md */,
+				040902581EF2789300C0D799 /* 排序.c */,
 			);
 			path = "大话数据结构";
 			sourceTree = "<group>";
@@ -320,11 +329,13 @@
 				04089A1F1EE9302300F36FCA /* 05最小生成树_Prim_UTF-8.c in Sources */,
 				04B4DA3C1EE156B10000C136 /* 树.md in Sources */,
 				04089A1A1EE9302300F36FCA /* 03线索二叉树_ThreadBinaryTree_UTF-8.c in Sources */,
+				040902591EF2789300C0D799 /* 排序.c in Sources */,
 				04089A151EE9302300F36FCA /* 06链队列_LinkQueue_UTF-8.c in Sources */,
 				04089A241EE9302300F36FCA /* 10关键路径_CriticalPath_UTF-8.c in Sources */,
 				04089A2A1EE9302300F36FCA /* 01排序_Sort_UTF-8.c in Sources */,
 				04089A191EE9302300F36FCA /* 02二叉树链式结构实现_BiTreeLink_UTF-8.c in Sources */,
 				04089A1C1EE9302300F36FCA /* 02邻接表创建_CreateALGraph_UTF-8.c in Sources */,
+				04087D891EEE266F006534CF /* 最小最短算法.md in Sources */,
 				04089A231EE9302300F36FCA /* 09拓扑排序_TopologicalSort_UTF-8.c in Sources */,
 				04089A121EE9302300F36FCA /* 03链栈_LinkStack_UTF-8.c in Sources */,
 				04089A171EE9302300F36FCA /* 02模式匹配_KMP_UTF-8.c in Sources */,
@@ -334,6 +345,7 @@
 				04089A141EE9302300F36FCA /* 05顺序队列_Queue_UTF-8.c in Sources */,
 				04089A251EE9302300F36FCA /* 01静态查找_Search_UTF-8.c in Sources */,
 				04089A181EE9302300F36FCA /* 01二叉树顺序结构实现_BiTreeArray_UTF-8.c in Sources */,
+				04FDDFAF1EEFDC86002DCAED /* 查找.md in Sources */,
 				040B54161ED68BA1007006C9 /* main.c in Sources */,
 				04089A111EE9302300F36FCA /* 02两栈共享空间_DoubleStack_UTF-8.c in Sources */,
 				04089A291EE9302300F36FCA /* 05散列表_HashTable_UTF-8.c in Sources */,
